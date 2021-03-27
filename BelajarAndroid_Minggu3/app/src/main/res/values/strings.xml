@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BelajarAndroid_Minggu3</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder name</string>
+    <string name="email">Masukkan Email</string>
+    <string name="password">Masukkan Password</string>
+    <string name="login">LOGIN</string>
+    <string name="really_long_string" />
+    <string name="TombolKalkulator">Menu Dashboard</string>
+    <string-array name="tanggal">
+        <item>Minggu, Maret 28, 2020</item>
+    </string-array>
+    <string-array name="jam">
+        <item>01:55 AM</item>
+    </string-array>
+</resources>
